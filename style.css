@@ -78,6 +78,7 @@ text-align: center;
 }
 .aba-conteudo-titulo-secundario{
 text-align: center;
-color: var(--verde); text-transform: uppercase;
+color: var(--verde); 
+text-transform: uppercase;
 }
  
